@@ -66,10 +66,43 @@ Program: Checking whether the number is in a list or not
 - IF ELSE Statement
 
 Program: Discount Calculation 
-
 Program: Pass or Fail
 
 ## Week 3
 
+### Decision Marking Part 2
 
+- ELIF Statement
+- Nested IF Statement
+- Single Statement Suites
 
+Program: Discount Calculation Version 2
+Program: Divisible value or not
+Program: Even or Odd
+
+### While loop
+
+- While Loop Statement
+- Using ELSE Statement with While loops
+
+Program: Counting
+Program: Sum of All Digits
+
+### For loop
+
+- For Loop Statement
+- Iteating By Sequence Index
+- Using Eles Statement with For Loops
+
+Program: Reversed Order
+Program: Checking Even Number
+Program: Multiplication Table
+
+### Nested Loop
+
+- Nested Loops
+- Loop Control Statements
+- Iterator and Generator
+
+Program: Multiplication Table (break, pass and countinue)
+Program: Patterns
