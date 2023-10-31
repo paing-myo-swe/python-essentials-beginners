@@ -105,4 +105,33 @@ Program: Multiplication Table
 - Iterator and Generator
 
 Program: Multiplication Table (break, pass and countinue)
+
 Program: Patterns
+
+## Week 4
+
+### Numbers Part 1
+
+- Number Type Conversion
+- Mathematical Functions
+
+Program: Find a Comparison, Exponent, Ceiling, and Floor of a number
+
+### Numbers Part 2
+
+- Mathematical Functions
+
+Program: Factorial, Fibonacci Series
+Program: Finding a Maximum value
+
+### Numbers Part 3
+
+- Random Number Functions
+
+Program: Generating a Random Number
+
+### Numbers Part 4
+
+- Trigonometric Functions
+
+Program: Trigonometric Functions 
