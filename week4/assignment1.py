@@ -1,4 +1,5 @@
 # Program: Find GCD of two numbers
+
 import math
 
 print("Greatest Common Divisor finder of two numbers.....")
