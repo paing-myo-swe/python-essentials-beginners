@@ -134,4 +134,34 @@ Program: Generating a Random Number
 
 - Trigonometric Functions
 
-Program: Trigonometric Functions 
+Program: Trigonometric Functions
+
+## Week 5
+
+### String Part 1
+
+- Accessing Values in Strings
+- Updating Strings
+- Escape Characters
+- Slicing to a String
+
+Program: Basic String Functions
+
+### String Part 2
+
+- String Concatenation
+- String Indexing
+- String Slicing
+
+### String Part 3
+
+- Removing a Specific character from a String
+- Removing Multiple Characters from a String
+- Removing Special Characters from a String
+
+### String Part 4
+
+- Changing Upper case and Lower case
+- Other String Case Changing Methods
+
+Program: Counting uppercas,lowercase,space and Swapping case of input String
