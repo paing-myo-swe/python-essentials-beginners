@@ -165,3 +165,34 @@ Program: Basic String Functions
 - Other String Case Changing Methods
 
 Program: Counting uppercas,lowercase,space and Swapping case of input String
+
+## Week 6
+
+### String Part 5
+
+- Split, Replace, and Delete a String
+- Palindrome String
+
+Program: Text Split Function
+
+### String Part 6
+
+- Check how a String is start and end Program
+- Append String
+
+### String Part 7
+
+- Checking if a String is decimal
+- Checking if a String is digit
+- Checking if a String is numeric
+- Checking if a String is alphabetic
+- Checking if a String is alphanumeric
+- Checking if a String is empty
+
+### String Part 8
+
+- String Alignment
+- Word Sorting
+
+Program: String Concatenation and Repetition
+Program: Fing String position
