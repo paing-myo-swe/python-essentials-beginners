@@ -196,3 +196,25 @@ Program: Text Split Function
 
 Program: String Concatenation and Repetition
 Program: Fing String position
+
+## Week 7
+
+### String Part 9
+
+- Find a String in a String
+- String Formatting Expressions
+- String Comparison
+
+### String Part 10
+
+- Converting Strings to Numbers
+- Converting Numbers to Strings
+- String Comparison
+- Find Length, Min and Max value of a String Program
+
+### String Part 11
+
+- Additional String Methods
+- Program
+
+## Week 8
