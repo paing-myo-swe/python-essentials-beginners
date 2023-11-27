@@ -218,3 +218,30 @@ Program: Fing String position
 - Program
 
 ## Week 8
+
+### List Part 1
+
+- Accessing Values in Lists
+- Updating lists
+- Delete List Elements
+- Length Element Function Program
+
+### List Part 2
+
+- Indexing a list
+- Slicing and Matrixes of a List
+
+### List Part 3
+
+- Min Function
+- Max Function
+- List Function
+- Extend Method
+
+### List Part 4
+
+- Append Method
+- Count Method
+- Pop Method
+- Remove Method
+- Reverse Sorting Method
