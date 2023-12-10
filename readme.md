@@ -245,3 +245,9 @@ Program: Fing String position
 - Pop Method
 - Remove Method
 - Reverse Sorting Method
+
+### List Part 5
+
+- Show List Data with For Loop
+- List Comprehension Example
+- List Comprehension with Input
