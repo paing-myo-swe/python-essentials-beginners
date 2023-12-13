@@ -251,3 +251,24 @@ Program: Fing String position
 - Show List Data with For Loop
 - List Comprehension Example
 - List Comprehension with Input
+
+## Week 9
+
+### Tuple Part 1
+
+- Accessing Values in Tuples
+- Updating Tuples
+- Delete Tuple Elements
+- Basic Tuples Operations
+
+### Tuple Part 2
+
+- Indexing, Slicing, and Matrixes
+- No Enclosing Delimiters
+- Adding Element to a Tuple
+
+### Tuple Part 3
+
+- Maximum Element in a Tuple
+- Membership Operator in Tuple
+- Repeat and Nested Tuple
