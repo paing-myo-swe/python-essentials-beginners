@@ -1,12 +1,19 @@
-tuple1 = ('a','b','c','d')
-tuple2 = (1,2,3,4,5)
-tuple3 = ((1,3,5),(2,4,6))
+tuple1 = (23,4,45,676,88,221,44)
+tuple2 = ("apple","banana","orange","mango","banana")
 
 print(max(tuple1))
-print(min(tuple2))
-print('e' in tuple1)
-print(3 in tuple2)
+print(min(tuple1))
+print(len(tuple1))
+print(sum(tuple1))
 
-for i in tuple3:
-    for j in i:
-        print(j)
+print(max(tuple2))
+print(min(tuple2))
+print(len(tuple2))
+
+list1 = [21,3,34,466,75]
+tuple3 = tuple(list1)
+
+print(tuple3)
+print(tuple1.index(4))
+print(tuple2.index("orange"))
+print(tuple2.count("banana"))
