@@ -299,3 +299,13 @@ Program: Fing String position
 - Remove Dictionary
 - Creating New Dictionary
 - Getting Value from a Dictionary
+
+## Week 11
+
+### Dictionary Part 4
+
+- Items to a Dictionary
+- Key-value from a Dictionary
+- Updating a Dictionary
+- List in Dictionary
+- Nested Dictionary
