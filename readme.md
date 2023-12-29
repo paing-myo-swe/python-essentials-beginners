@@ -272,3 +272,30 @@ Program: Fing String position
 - Maximum Element in a Tuple
 - Membership Operator in Tuple
 - Repeat and Nested Tuple
+
+## Week 10
+
+### Set
+
+- Set
+
+### Dictionary Part 1
+
+- Accessiong Values in Dictionary
+- Updating Dictionary
+- Delete Dictionary Elements
+- Properties of Dictionary Keys
+- Built-in Dictionary Functions and Methods
+
+### Dictionary Part 2
+
+- Length of Dictionary
+- String in a Dictionary
+- Type of Dictionary
+
+### Dictionary Part 3
+
+- Copy Dictionary
+- Remove Dictionary
+- Creating New Dictionary
+- Getting Value from a Dictionary
