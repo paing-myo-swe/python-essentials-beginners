@@ -309,3 +309,17 @@ Program: Fing String position
 - Updating a Dictionary
 - List in Dictionary
 - Nested Dictionary
+
+### Date Time Part 1
+
+- What is Tick?
+- What is Time Tuple?
+- Getting current time
+- Getting calendar for a month
+
+### Date Time Part 2
+
+- Time Module
+- Time Methods
+
+## Week 12
