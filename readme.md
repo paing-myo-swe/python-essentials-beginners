@@ -323,3 +323,16 @@ Program: Fing String position
 - Time Methods
 
 ## Week 12
+
+### Date Time Part 3
+
+- Getting GMT Time
+- Getting Local Time
+- How to inverse Local Time
+
+### Date Time Part 4
+
+- Getting asctime
+- Getting striptime
+- Getting strftime
+- Measure performance
