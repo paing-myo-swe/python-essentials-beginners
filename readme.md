@@ -336,3 +336,19 @@ Program: Fing String position
 - Getting striptime
 - Getting strftime
 - Measure performance
+
+### Date Time Part 5
+
+- The calendar Module
+- Python Calendar
+- Calendar of a month
+- Calendar of the year
+- Calendar Class
+- TextCalendar Class
+
+### Date Time Part 6
+
+- firstweekday( )
+- isleap(year)
+- leapdays (year1, year2)
+- Getting the day of a date - weekday()
