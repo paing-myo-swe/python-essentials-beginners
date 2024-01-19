@@ -352,3 +352,34 @@ Program: Fing String position
 - isleap(year)
 - leapdays (year1, year2)
 - Getting the day of a date - weekday()
+
+## Week 13
+
+### Function Part 1
+
+- What is Function?
+- Why Function is Needed?
+- What does the function do?
+- Types of Functions in Python
+- How to define a function?
+- Creating a User-Defined Function
+- How to call a Function?
+- Function with Parameters
+- Even or Odd Program
+
+### Function Part 2
+
+- Function Arguments
+- Parameters or Arguments?
+- Program using Arguments
+- Types of Arguments
+
+### Function Part 3
+
+- The Anonymous Functions
+- lambda function
+- The return Statement
+- Pass by Value
+- Pass by Reference
+- Scope of Variables
+- Global vs. Local variables
