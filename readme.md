@@ -383,3 +383,12 @@ Program: Fing String position
 - Pass by Reference
 - Scope of Variables
 - Global vs. Local variables
+
+### Module Part 1
+
+- What is Module?
+- Import module in Python
+- Import Specific Attributes from a module
+- Import all Names
+- Renaming the Python module
+- Some Python Built-in modules
