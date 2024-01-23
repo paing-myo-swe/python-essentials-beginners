@@ -392,3 +392,41 @@ Program: Fing String position
 - Import all Names
 - Renaming the Python module
 - Some Python Built-in modules
+
+### Module Part 2
+
+- How to Install Module?
+- How to Install Module Package?
+- Installing Python Packages from Thonny
+
+### Module Part 3
+
+- What is pip?
+- How to install pip?
+- Python Installation
+- Checking Python and Pip Version
+- Installing PIP from Command line
+- Installing Module Packages from pip
+- Offline Installation
+
+### File Part 1
+
+- Reading Keyboard Input
+- The input Function
+- Opening and Closing Files
+- different modes of opening a file
+- Reading and Writing File
+- File Reading and Writing Method
+- The read () Method
+- Readline () method
+- Readlines () Method
+- With statement
+
+### File Part 2
+
+- Creating a File
+- Writing To a Text File
+- Writing Strings to a File
+- Writing a List of Strings to a File
+- Appending Data to A File
+- Appending versus overwriting files
