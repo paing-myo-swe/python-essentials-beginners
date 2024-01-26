@@ -409,6 +409,8 @@ Program: Fing String position
 - Installing Module Packages from pip
 - Offline Installation
 
+## Week 14
+
 ### File Part 1
 
 - Reading Keyboard Input
@@ -430,3 +432,18 @@ Program: Fing String position
 - Writing a List of Strings to a File
 - Appending Data to A File
 - Appending versus overwriting files
+
+## Week 15
+
+### File Part 3
+
+- Renaming a File
+- Deleting a file
+- Moving a file
+- File position
+
+### File Part 4
+
+- How to copy a file?
+- Different Module for file operations
+- Different Copy Methods
